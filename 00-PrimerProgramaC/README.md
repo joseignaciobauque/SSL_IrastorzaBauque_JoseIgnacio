@@ -1,0 +1,1 @@
+Este es un subdirectorio con el fin de completar el primer programa relacionado a SSL. En este voy a crear un programa que tiene la finalidad de sacar el mensaje "Hola Mundo" con el fin de corroborar que todo esta funcionando correctamente.
